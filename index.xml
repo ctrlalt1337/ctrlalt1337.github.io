@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>alt&#43;ctrl&#43;1337</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on alt&#43;ctrl&#43;1337</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Nov 2015 19:53:09 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>first</title>
+      <link>http://localhost:1313/post/first/</link>
+      <pubDate>Wed, 18 Nov 2015 19:53:09 +1000</pubDate>
+      
+      <guid>http://localhost:1313/post/first/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at interdum nibh. Sed fermentum arcu at dui malesuada, at tincidunt dui aliquam. Suspendisse malesuada cursus magna, et dapibus arcu ultrices eu. Curabitur cursus, turpis a rutrum sodales, eros orci lobortis leo, eu faucibus leo risus at libero. Praesent eget purus ligula. Duis id diam tincidunt diam fringilla vulputate. Duis lectus neque, interdum eu euismod non, posuere sit amet orci. Phasellus iaculis blandit tellus ac posuere. Suspendisse efficitur, magna in elementum molestie, purus dui sollicitudin enim, vitae fringilla urna lectus sed magna. Suspendisse commodo, risus et posuere accumsan, metus velit gravida nibh, nec venenatis ex arcu dictum diam. Curabitur dignissim nulla id tempor ullamcorper. Etiam lacus eros, sollicitudin vitae metus in, lobortis commodo dui.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 18 Nov 2015 19:51:57 +1000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;a-headline:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;A headline&lt;/h2&gt;
+
+&lt;p&gt;Some content&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
